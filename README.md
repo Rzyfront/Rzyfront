@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://semidotinfotech.com/web/images/reactjs_banner.jpg" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg" align="center" style="width: 100%" />
 </div>  
   
   
