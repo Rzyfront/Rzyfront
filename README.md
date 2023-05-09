@@ -1,9 +1,9 @@
 
 
-### Rafael Martinez  
 <div align="center">
-<img src="[https://ca.slack-edge.com/TPRS7H4PN-U04GLHEEYQG-20aeaa08b219-512](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)" align="center" height="300" width="700" />
+<img src="https://trainings.internshala.com/cached_uploads/full-stack-web-development-specialization/banner_hero.png" align="center" style="width: 100%" />
 </div>  
+  
   
 
 ### <div align="center">Desarrollador web full stack - Egresado del bootcamp Soy Henry</div>  
