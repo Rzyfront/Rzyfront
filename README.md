@@ -2,7 +2,7 @@
 
 ### Rafael Martinez  
 <div align="center">
-<img src="https://ca.slack-edge.com/TPRS7H4PN-U04GLHEEYQG-20aeaa08b219-512" align="center" height="300" width="300" />
+<img src="[https://ca.slack-edge.com/TPRS7H4PN-U04GLHEEYQG-20aeaa08b219-512](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)" align="center" height="300" width="700" />
 </div>  
   
 
