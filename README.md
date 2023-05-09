@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://trainings.internshala.com/cached_uploads/full-stack-web-development-specialization/banner_hero.png" align="center" style="width: 100% heigth : 400" />
+<img src="https://trainings.internshala.com/cached_uploads/full-stack-web-development-specialization/banner_hero.png" align="center" style="width: 100% heigth : 300" />
 </div>  
   
   
