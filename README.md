@@ -8,7 +8,7 @@
 ### <div align="center">Desarrollador web full stack - Egresado del bootcamp Soy Henry</div>  
   
 
-- Actualemente estoy aprendiendo TypeScript 🧐  
+- Programando en TypeScript 🧐  
   
 
 - Poseo conocimiento integral sobre el desarrollo web.  
