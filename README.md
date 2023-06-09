@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.temporal.io%2Fgetting_started%2Ftypescript%2Fhello_world_in_typescript%2F&psig=AOvVaw2AgDtUXKyPYk2EUEbRcrfL&ust=1686413992892000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi0oOrLtv8CFQAAAAAdAAAAABAF" align="center" style="width: 100%" />
+<img src="https://learn.temporal.io/assets/images/banner_typescript-2156b7edec5a96f12884d24603574199.png" align="center" style="width: 100%" />
 </div>  
   
   
