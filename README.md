@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://learn.temporal.io/assets/images/banner_typescript-2156b7edec5a96f12884d24603574199.png" align="center" style="width: 100%" />
+  <img src="https://blog.elaniin.com/content/images/2022/05/Banner_-___TypeScript_.webp" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Full Stack Developer</div>
